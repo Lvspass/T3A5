@@ -30,4 +30,5 @@ utilizar la metodologia de las 6D y compartir el enlace de su repositorio.
 Disseñar interfaz ...
 ~~~
 ## Etapa 3. 
+![](https://github.com/Lvspass/T3A5/blob/main/T3A5.png)
 
